@@ -1,4 +1,4 @@
-# referenced this portion , kept it as it as 
+# referenced this portion , kept it as it is 
 class LineExtractor:
     def __init__(self, inverted_image):
         self.inverted_image = inverted_image
